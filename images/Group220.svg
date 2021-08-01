@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45b49d"/>
+      <stop offset="1" stop-color="#8ccdbf"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_220" data-name="Group 220" transform="translate(-883 -1629)">
+    <g id="Rectangle_423" data-name="Rectangle 423" transform="translate(883 1629)" fill="none" stroke="#8ccdbf" stroke-width="1">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="4.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M11.9,11.567l.571-3.722H8.9V5.431A1.861,1.861,0,0,1,11,3.42h1.623V.251A19.8,19.8,0,0,0,9.742,0C6.8,0,4.878,1.782,4.878,5.009V7.846H1.609v3.722H4.878v9H8.9v-9Z" transform="translate(890.991 1634.449)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
